@@ -70,8 +70,8 @@ const Footer = () => {
           <div className="sub_footer_wrapper">
             <div className="foot_copyright">
               <p>
-                {currYear} | XBeat. All Rights Reserved. Built by |{" "}
-                <a href="">Mohit Chaudhary</a>
+                {currYear} | XBeat. All Rights Reserved. Built by | Mohit
+                Chaudhary
               </p>
             </div>
             <div className="foot_social">
